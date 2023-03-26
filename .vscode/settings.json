@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ili9341.h": "c",
+        "ili9341_gfx.h": "c",
+        "stm32f4xx_hal.h": "c"
+    }
+}
